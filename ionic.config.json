@@ -1,0 +1,7 @@
+{
+  "name": "pi-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
